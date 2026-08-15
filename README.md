@@ -8,6 +8,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
