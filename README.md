@@ -25,6 +25,7 @@ In this repository I'M uploading my dsa preparation codes
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -33,6 +34,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 ## Bit Manipulation
 |  |
@@ -42,5 +44,10 @@ In this repository I'M uploading my dsa preparation codes
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
