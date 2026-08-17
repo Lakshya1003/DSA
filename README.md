@@ -50,6 +50,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Lakshya1003/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
