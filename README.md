@@ -10,6 +10,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
