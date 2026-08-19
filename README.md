@@ -7,6 +7,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
@@ -18,6 +19,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
