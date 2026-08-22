@@ -38,6 +38,7 @@ In this repository I'M uploading my dsa preparation codes
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
