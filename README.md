@@ -15,6 +15,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -51,6 +52,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Lakshya1003/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,10 +75,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
