@@ -18,6 +18,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
+| [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -26,6 +27,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
+| [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +125,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
