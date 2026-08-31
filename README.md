@@ -15,6 +15,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
@@ -61,6 +62,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
@@ -86,6 +88,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshya1003/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -145,4 +148,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
