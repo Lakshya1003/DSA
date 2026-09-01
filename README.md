@@ -29,6 +29,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -36,6 +37,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
@@ -162,6 +164,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -179,4 +182,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
