@@ -21,6 +21,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -41,12 +42,14 @@ In this repository I'M uploading my dsa preparation codes
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -56,6 +59,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Lakshya1003/DSA/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -174,15 +178,18 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
@@ -196,4 +203,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
