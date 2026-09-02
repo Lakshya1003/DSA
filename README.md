@@ -69,6 +69,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Lakshya1003/DSA/tree/master/1143-longest-common-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -131,6 +132,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 ## Quicksort
 |  |
@@ -201,6 +203,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
 | ------- |
