@@ -25,6 +25,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -50,6 +51,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -129,6 +131,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Longest Increasing Subsequence
 |  |
@@ -205,6 +208,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 ## Bucket Sort
 |  |
@@ -255,4 +259,5 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
