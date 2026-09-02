@@ -12,6 +12,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -68,6 +69,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
@@ -105,6 +107,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Lakshya1003/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Lakshya1003/DSA/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
@@ -159,6 +162,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -247,4 +251,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
