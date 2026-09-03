@@ -13,6 +13,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
@@ -141,6 +142,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lakshya1003/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -276,6 +278,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Ternary Search
