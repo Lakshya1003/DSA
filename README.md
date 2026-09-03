@@ -8,6 +8,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
@@ -136,6 +137,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
