@@ -27,6 +27,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
+| [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lakshya1003/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Lakshya1003/DSA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -267,6 +268,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,4 +282,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lakshya1003/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
