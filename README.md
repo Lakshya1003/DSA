@@ -181,6 +181,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
@@ -188,6 +189,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Sweep Line
 |  |
@@ -214,6 +217,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
