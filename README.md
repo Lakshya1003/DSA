@@ -184,6 +184,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Sweep Line
 |  |
 | ------- |
@@ -304,4 +307,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
