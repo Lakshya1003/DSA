@@ -189,6 +189,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Sweep Line
 |  |
 | ------- |
@@ -329,4 +332,8 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
